@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dellsmith.github.io</id>
+    <title>DellSmith</title>
+    <updated>2021-04-21T10:12:40.302Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dellsmith.github.io"/>
+    <link rel="self" href="https://dellsmith.github.io/atom.xml"/>
+    <subtitle>Dell&apos;s Home</subtitle>
+    <logo>https://dellsmith.github.io/images/avatar.png</logo>
+    <icon>https://dellsmith.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, DellSmith</rights>
+    <entry>
+        <title type="html"><![CDATA[Dell's Home]]></title>
+        <id>https://dellsmith.github.io/post/dells-home/</id>
+        <link href="https://dellsmith.github.io/post/dells-home/">
+        </link>
+        <updated>2021-04-21T10:11:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="小破站正在建设中">小破站正在建设中😁</h1>
+<figure data-type="image" tabindex="1"><img src="https://dellsmith.github.io/post-images/1618999952162.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
